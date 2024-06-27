@@ -70,7 +70,7 @@ This project was undertaken as a learning project, drawing inspiration and knowl
 - "Attention Is All You Need", the seminal paper introducing the transformer architecture, served as a foundational resource.
 
 
-**Important Note**: Due to a known issue, the model may become unusable after saving and loading it. This could be due to compatibility issues or limitations in the current implementation. I are actively working on resolving this issue, but in the meantime, please be cautious when saving and loading the model. I recommend retraining the model if you encounter any issues with its usability after loading.
+**Important Note**: Due to a known issue, the model may become unusable after saving and loading it. This could be due to compatibility issues or limitations in the current implementation. We are actively working on resolving this issue, but in the meantime, please be cautious when saving and loading the model. I recommend retraining the model if you encounter any issues with its usability after loading.
 
 
 ---
@@ -79,8 +79,7 @@ By combining the power of convolutional neural networks with transformer-based a
 
 ## Contributers
 
-This project was undertaken as a Requirement for course credits.
-It was completed by the following members:
+This project was completed by the following members:
 
 Name | USN 
 --- | ---
