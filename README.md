@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts the implementation of an image captioning model using transformer-based architectures. Image captioning is the task of generating textual descriptions for images automatically. The model presented here combines convolutional neural networks (CNNs) for image feature extraction with transformer-based decoders for generating captions.
+This repository hosts the implementation of an image captioning model using transformer-based architecture. Image captioning is the task of generating textual descriptions for images automatically. The model presented here combines convolutional neural networks (CNNs) for image feature extraction with transformer-based decoders for generating captions.
 
 ## Model Architecture
 
